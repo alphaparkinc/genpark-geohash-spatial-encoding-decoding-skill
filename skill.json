@@ -1,0 +1,19 @@
+{
+  "name": "genpark-geohash-spatial-encoding-decoding-skill",
+  "version": "1.0.0",
+  "description": "Geohash base32 hierarchical spatial grid encoding, decoding, and bounding box interval calculations",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "geohash",
+    "spatial-hashing",
+    "gis",
+    "spatial-indexing",
+    "base32-encoding",
+    "latitude-longitude",
+    "python-standard-library",
+    "agent-skills",
+    "location-search",
+    "grid-systems"
+  ]
+}
