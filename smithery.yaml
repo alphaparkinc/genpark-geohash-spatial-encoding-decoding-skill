@@ -1,0 +1,5 @@
+name: genpark-geohash-spatial-encoding-decoding-skill
+description: Geohash base32 hierarchical spatial grid encoding, decoding, and bounding box interval calculations
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
